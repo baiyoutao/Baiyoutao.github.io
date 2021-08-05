@@ -2,8 +2,9 @@
 <html lang="zh-CN">
 
 
-a {
+    a, h1 {
   color: green;
+  font-weight: bold;
 }
-
+   
 </html>
