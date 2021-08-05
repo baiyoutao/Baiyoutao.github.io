@@ -8,6 +8,11 @@
   color: green;
   font-weight: bold;
 }
+<style>
+ a:hover{color:green}
+
+</style>
+
 </head>   
 
 </html>
