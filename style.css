@@ -3,17 +3,10 @@
   color: green;
 }
 
-.box {
-	
-	display: flex;
-	}
-
-
-.box {
-  flex-direction:row-reverse;
-}
 
 
 body {
+	flex-direction: row;
 	  flex-wrap: nowrap;
+	justify-content:center;
 }
