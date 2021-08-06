@@ -7,3 +7,10 @@
 
 
 
+
+.box{
+  display: flex;
+}
+.box {
+  flex-direction: column-reverse;
+}
