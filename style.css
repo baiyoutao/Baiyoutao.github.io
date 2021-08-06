@@ -4,6 +4,12 @@
 }
 
 
-{flex-direction: column-reverse;}
+body{
+    flex-direction: column-reverse;
+}
 
+
+body.box {
+  flex-direction:column-reverse;
+}
 
