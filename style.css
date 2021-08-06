@@ -3,12 +3,15 @@
   color: green;
 }
 
-
-
-<display: flex>
 .box{
   display: flex;
 }
 .box {
   flex-direction: column-reverse;
+}
+
+
+#header{
+	width:100%
+	background-color:#ccc
 }
