@@ -4,12 +4,13 @@
 }
 
 
-body{
-    flex-direction: column-reverse;
-}
 
-
-body.box {
+.box {
   flex-direction:column-reverse;
 }
 
+
+.flex-container {
+  display: flex;
+  flex-direction: column-reverse;
+}
