@@ -15,10 +15,5 @@
 
 
 body {
-	padding: 20px;
-	margin: 0 auto;
-	background-color: #E2E2E2;
-	max-width: 1024px;
-	color: #595B66;
-	font-family: 'Microsoft Yahei', sans-serif;
+	  flex-direction:row-reverse;
 }
