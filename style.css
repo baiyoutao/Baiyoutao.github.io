@@ -6,7 +6,8 @@
 
 
 body {
-	flex-direction: row;
-	  flex-wrap: nowrap;
-	justify-content:center;
+	
+  	flex-wrap: nowrap;
+	justify-content:flex-end;
+
 }
