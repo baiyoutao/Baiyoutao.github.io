@@ -3,15 +3,8 @@
   color: green;
 }
 
-.box{
-  display: flex;
-}
+
 .box {
   flex-direction: column-reverse;
 }
 
-
-#footer{
-	width:100%
-	background-color:green
-}
