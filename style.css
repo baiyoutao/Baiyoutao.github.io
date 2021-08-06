@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html lang="zh-CN"> 
 
- <body> 
     a:hover {
   color: green;
 }
@@ -15,6 +12,3 @@
 .box {
   flex-direction: column-reverse;
 }
- </body> 
-
-</html>
