@@ -15,6 +15,14 @@
 .gg{
         display: flex;
         flex-direction:row-reverse;
+        flex-wrap: nowrap；
         justify-content: center;
     }
+.a{
+	flex-grow: 1;
+	width: auto;
+}
+ .b{
+	flex-grow: 2;
+	}
 
