@@ -3,26 +3,16 @@
   color: green;
 }
 
-.ggdingbu{
-        display: flex;
-       justify-content:center;
-    }
 
 
 
 
 
 .gg{
-        display: flex;
-        flex-direction:row-reverse;
-        flex-wrap: nowrap;
-        justify-content: center;
+        fdisplay: flex;
+       flex-direction: row; 
+       justify-content: center;
+       flex-shrink;
     }
-.a{
-	flex-grow: 1;
-	width: auto;
-}
- .b{
-	flex-grow: 2;
-	}
+
 
