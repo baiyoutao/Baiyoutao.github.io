@@ -5,8 +5,7 @@
 
 
 .container {
-    width: 70%;
-    height: 500px;
-    margin:20px auto;
-    border: 1px solid black;
+    width: 100px;
+    flex-direction: row；
+   
 }
