@@ -9,3 +9,11 @@
 	flex-direction: row;
 	flex-wrap: nowrap;
 }
+
+p {
+	font-size: 15px;
+    background: #797979;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    line-height: 2;
