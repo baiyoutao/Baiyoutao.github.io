@@ -1,21 +1,16 @@
-
-    a:hover {
+ <style type="text/css">
+  a:hover {
   color: green;
 }
-
-
-.header{
-        display: flex;
-       justify-content:center;
-    }
-
-
-
-.gg{
-        fdisplay: flex;
-       flex-direction: row-reverse; 
+    .gg{
+     
+      display: flex;/*父div设置该属性*/
+       flex-direction:row-reverse;
        justify-content: center;
-       flex-shrink;
     }
+    .header{
+    	display: flex;
+       justify-content:center;
+   }
 
-
+  </style>
