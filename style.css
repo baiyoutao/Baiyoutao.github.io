@@ -3,9 +3,11 @@
   color: green;
 }
 
-<style type="text/css">
-.gg p{
-    width: 100px;
-    flex-direction: row；
-}
-</style>
+
+    .gg{
+     
+      display: flex;
+       flex-direction:row-reverse;
+       justify-content: center;
+    }
+    
