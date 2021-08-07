@@ -13,7 +13,7 @@
 
 .gg{
         fdisplay: flex;
-       flex-direction: row; 
+       flex-direction: row-reverse; 
        justify-content: center;
        flex-shrink;
     }
