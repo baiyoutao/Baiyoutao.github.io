@@ -3,8 +3,8 @@
   color: green;
 }
 
-
-.container {
+<style type="text/css">
+.gg div {
     width: 100px;
     flex-direction: row；
    
