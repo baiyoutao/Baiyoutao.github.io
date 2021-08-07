@@ -17,3 +17,6 @@ p {
     color: white;
     line-height: 2;
 }
+.box-1 {
+	flex-direction: row;
+}
