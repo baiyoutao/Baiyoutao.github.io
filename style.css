@@ -3,18 +3,9 @@
   color: green;
 }
 
-.column{
-	float:left;
-}
 
-
-
-
-p {
+body {
 	flex-direction: row;
 	flex-wrap: nowrap;
-
-}
-.box-1 {
 
 }
