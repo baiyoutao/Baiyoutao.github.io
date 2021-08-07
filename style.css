@@ -5,7 +5,7 @@
 
 
 
-.box {
+body {
 	flex-direction: row;
 	flex-wrap: nowrap;
 }
@@ -17,3 +17,4 @@ p {
     border-radius: 5px;
     color: white;
     line-height: 2;
+}
