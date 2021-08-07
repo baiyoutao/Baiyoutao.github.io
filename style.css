@@ -15,7 +15,7 @@
 .gg{
         display: flex;
         flex-direction:row-reverse;
-        flex-wrap: nowrap；
+        flex-wrap: nowrap;
         justify-content: center;
     }
 .a{
