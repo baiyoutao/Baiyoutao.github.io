@@ -11,6 +11,8 @@ body {
 }
 
 p {
+	flex-direction: row;
+	flex-wrap: nowrap;
 	font-size: 15px;
     background: #797979;
     padding: 10px;
