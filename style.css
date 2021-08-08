@@ -15,11 +15,11 @@
     flex: auto;
     flex-direction: row-reverse;
 }
-.o{
+.article{
     flex:3;
 }
 
-.t{
+.aside{
     flex:1;
 }
 
