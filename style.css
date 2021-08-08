@@ -2,21 +2,14 @@
  a:hover {
   color: green;
 }
-.gg{
-       display: flex;
-       flex-direction:row-reverse;
-       justify-content: center;
-    }
-.header{
-    	display: flex;
-       justify-content:center;
-   }
-
-
 .body{
 
         flex-direction: column;
         display: flex;
+}
+.header{
+    display: flex;
+    justify-content:center;
 }
 .main{
     display: flex;
@@ -29,7 +22,9 @@
 .t{
     flex-grow:1;
 }
-
-
+.footer{
+    display: flex;
+    justify-content:center;
+}
 
     
