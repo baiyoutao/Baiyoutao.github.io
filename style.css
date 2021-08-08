@@ -17,11 +17,11 @@
     flex-direction: row-reverse;
 }
 .o{
-    flex-grow:3;
+    flex:3;
 }
 
 .t{
-    flex-grow:1;
+    flex:1;
 }
 .footer{
     display: flex;
