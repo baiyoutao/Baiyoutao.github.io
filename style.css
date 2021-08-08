@@ -1,19 +1,14 @@
-
-
- a:hover {
+a:hover {
   color: green;
 }
 
 .body{
-      display: flex;
-      flex-direction: column;
-    
+     flex-direction: column;
+     display: flex;
 }
 .header{
-  display: flex;
+    display: flex;
     justify-content:center;
-}
-
 }
 .main{
     display: flex;
@@ -28,6 +23,6 @@
     flex:1;
 }
 .footer{
-  display: flex;
+    display: flex;
     justify-content:center;
 }
