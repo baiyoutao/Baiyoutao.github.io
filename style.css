@@ -5,12 +5,11 @@
 }
 
 .body{
-     flex-direction: column;
-     display: flex;
+      display: flex;
+      flex-direction: column;
+    
 }
-.header{
-    display: flex;
-    justify-content:center;
+
 }
 .main{
     display: flex;
@@ -24,7 +23,4 @@
 .aside{
     flex:1;
 }
-.footer{
-    display: flex;
-    justify-content:center;
-}
+
