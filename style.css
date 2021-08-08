@@ -6,10 +6,7 @@ a:hover {
      flex-direction: column;
      display: flex;
 }
-.header{
-    display: flex;
-    justify-content:center;
-}
+
 .main{
     display: flex;
     flex: auto;
@@ -22,7 +19,4 @@ a:hover {
 .aside{
     flex:1;
 }
-.footer{
-    display: flex;
-    justify-content:center;
-}
+
