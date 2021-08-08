@@ -1,1 +1,30 @@
 
+
+ a:hover {
+  color: green;
+}
+
+.body{
+     flex-direction: column;
+     display: flex;
+}
+.header{
+    display: flex;
+    justify-content:center;
+}
+.main{
+    display: flex;
+    flex: auto;
+    flex-direction: row-reverse;
+}
+.article{
+    flex:3;
+}
+
+.aside{
+    flex:1;
+}
+.footer{
+    display: flex;
+    justify-content:center;
+}
