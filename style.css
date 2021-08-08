@@ -3,22 +3,28 @@
   color: green;
 }
 .gg{
-     
-      display: flex;
+       display: flex;
        flex-direction:row-reverse;
        justify-content: center;
     }
-    .header{
+.header{
     	display: flex;
        justify-content:center;
    }
 
- .aa{
-     
-      display: flex;
-       flex-direction:row-reverse;
-       justify-content: center;
+
+.aa{
+   display: flex; 
+   flex-direction:row-reverse; 
+   justify-content: center; 
+} 
+
+.footer{
+   display: flex; 
+   justify-content:center;
     }
+
+
 
 
 
