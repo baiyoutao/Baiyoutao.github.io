@@ -13,18 +13,22 @@
    }
 
 
-.aa{
-   display: flex; 
-   flex-direction:row-reverse; 
-   justify-content: center; 
-} 
+.body{
 
-.footer{
-   display: flex; 
-   justify-content:center;
-    }
+        flex-direction: column;
+        display: flex;
+}
+.main{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.o{
+    flex-grow:3;
+}
 
-
+.t{
+    flex-grow:1;
+}
 
 
 
