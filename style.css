@@ -16,7 +16,7 @@
  .aa{
      
       display: flex;
-       flex-direction:column-reverse;
+       flex-direction:row-reverse;
        justify-content: center;
     }
 
