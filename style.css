@@ -2,21 +2,21 @@ a:hover {
   color: green;
 }
 
-.body{
+body{
      flex-direction: column;
      display: flex;
 }
 
-.main{
+main{
     display: flex;
     flex: auto;
     flex-direction: row-reverse;
 }
-.article{
+article{
     flex:3;
 }
 
-.aside{
+aside{
     flex:1;
 }
 
